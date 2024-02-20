@@ -1,29 +1,69 @@
-<h1 align="center">Hi 👋, I'm Madi</h1>
-<h3 align="center">A passionate Bug hunter from Iran</h3>
+<h2 align="center">Hi 👋! My name is Madi and I'm a bug hunter from Iran</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madisec&label=Profile%20views&color=0e75b6&style=flat" alt="madisec" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/madiisec" target="blank"><img src="https://img.shields.io/twitter/follow/madiisec?logo=twitter&style=for-the-badge" alt="madiisec" /></a> </p>
+<p align="center">Hi, There I'm Madi, maybe a bug hunter and sometimes a programmer,</p>
 
-- 🔭 I’m currently working on [SubCon](https://github.com/madisec/SubCon)
+###
 
-- 🌱 I’m currently learning **Bug hunting, nodeJS, Go, Ruby, and python**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+###
 
-- 💬 Ask me about **Bug bounty**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto://madiisec@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/madi-kamari-068b35287/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Madiisec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **madiisec@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/madiisec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madiisec" height="30" width="40" /></a>
-<a href="https://instagram.com/madiisec_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madiisec_" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madisec&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="173" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madisec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=madisec&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madisec&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madisec&show_icons=true&locale=en&layout=compact" alt="madisec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madisec&" alt="madisec" /></p>
+###
