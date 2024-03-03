@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Madi<br>Maybe a bug hunter<br>Sometimes programmer, in other words I'm nuts about security.<br>I'm 23 years old and from Kermanshah in the west of Iran.</p>
+<p align="left">Hi, I'm Madi<br>Maybe a bug hunter<br>Sometimes programmer, in other words I'm nuts about security.<br>I'm 23 years old and I'm from Kermanshah whiched located in the west of Iran.</p>
 
 ###
 
